@@ -73,3 +73,6 @@ void loop() {
   }
 }
 
+*OUTPUT*
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/4147a96c-79c4-4449-a2f6-4cf67126770b" />
